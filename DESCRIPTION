@@ -1,0 +1,15 @@
+Package: MallorcaCPModel
+Title: Analyze Holocene POS Sea Level
+Version: 0.0.0.1000
+Authors@R: 
+    person(given = "Erica L.",
+           family = "Ashe",
+           role = c("aut", "cre"),
+           email = "ericaashe@gmail.com",
+           comment = c(ORCID = "0000-0002-7445-6321"))
+Description: Analyze Holocene POS data to predict RSL and rates of RSL change for the past 4000 years. Create results files and figures for the analysis from Onac et al., (2022) 
+License: GNU General Public License v3.0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
